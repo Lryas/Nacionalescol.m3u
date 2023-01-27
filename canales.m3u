@@ -18,8 +18,7 @@ https://tkx.mp.lura.live/rest/v2/mcp/video/adstB64MXYxqLZwy?anvack=4gXmVVoVIp3Ye
 
 // Canales Internacionales //
 *****************************
-#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1200px-Cartoon_Network_2010_logo.svg.png" group-title="Muñequitos",Cartoon Network
-https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
 
 
 // Radios Nacionales //
@@ -36,6 +35,6 @@ https://24083.live.streamtheworld.com/RT_MONTERIAAAC.aac?dist=RtMonWeb
 // Peliculas //
 ***************
 #EXTINF:-1 group-title="Peliculas", El Juez
-https://photos.app.goo.gl/dfWatjZ8vHz7bkaq6
+https://waaw.tv/f/b31zeMrc3N8X
 
 
